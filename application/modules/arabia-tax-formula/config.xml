@@ -1,0 +1,9 @@
+<application>
+    <name>Arabia Tax Formula</name>
+    <description>Introduce an ashailhi tax formula on NexoPOS</description>
+    <main>module.php</main>
+    <author>Blair Jersyer</author>
+    <namespace>arabia-tax-formula</namespace>
+    <version>1.2</version>
+    <includes>inc</includes>
+</application>

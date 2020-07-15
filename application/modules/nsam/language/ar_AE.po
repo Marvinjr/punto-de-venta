@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-05 09:32+0100\n"
+"PO-Revision-Date: 2019-05-05 09:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: Nexo Solutions\n"
+"Language: ar_AE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_s\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: controllers/NsamController.php:20
+msgid "This feature is only available for multistore."
+msgstr "هذه الميزة متاحة فقط لمتاجر متعددة."
+
+#: controllers/NsamController.php:25
+msgid "Content Management &mdash; NexoPOS"
+msgstr "إدارة المحتوى - NexoPOS"
+
+#: controllers/NsamController.php:59
+msgid "Users Access Management"
+msgstr "وصول المستخدمين الإدارة"
+
+#: controllers/NsamController.php:76
+msgid "Users"
+msgstr "المستخدمين"
+
+#: controllers/NsamController.php:84
+msgid ""
+"This name will be used during the login by the cashier. This username should "
+"be unique."
+msgstr ""
+"سيتم استخدام هذا الاسم أثناء تسجيل الدخول من قبل أمين الصندوق. يجب أن يكون "
+"اسم المستخدم فريدًا."
+
+#: controllers/NsamController.php:85
+msgid ""
+"Alternatively, you can provide an email which will also be used for login "
+"and account recovery."
+msgstr ""
+"بدلاً من ذلك ، يمكنك تقديم بريد إلكتروني يتم استخدامه أيضًا لتسجيل الدخول "
+"واسترداد الحساب."
+
+#: controllers/NsamController.php:86
+msgid "Make sure to fill a secure password for the cashier."
+msgstr "تأكد من ملء كلمة مرور آمنة لأمين الصندوق."
+
+#: controllers/NsamController.php:87
+msgid "Should be similar to the password."
+msgstr "يجب أن تكون مشابهة لكلمة المرور."
+
+#: controllers/NsamController.php:127 nsam.php:106
+msgid "Users List"
+msgstr "قائمة المستخدمين"
+
+#: controllers/NsamController.php:147 controllers/NsamController.php:220
+msgid "Unable to create user. the username should have more that 5 characters"
+msgstr ""
+"غير قادر على إنشاء المستخدم. يجب أن يحتوي اسم المستخدم على أكثر من 5 أحرف"
+
+#: controllers/NsamController.php:149 controllers/NsamController.php:222
+msgid "Unable to create user. This username should have more that 5 characters"
+msgstr ""
+"غير قادر على إنشاء المستخدم. يجب أن يحتوي اسم المستخدم هذا على أكثر من 5 أحرف"
+
+#: controllers/NsamController.php:158 controllers/NsamController.php:160
+#: controllers/NsamController.php:192 controllers/NsamController.php:231
+#: controllers/NsamController.php:233
+msgid "Unable to create user. This username is already taken"
+msgstr "غير قادر على إنشاء المستخدم. أسم المستخدم مأخوذ مسبقا"
+
+#: controllers/NsamController.php:168 controllers/NsamController.php:170
+#: controllers/NsamController.php:241 controllers/NsamController.php:243
+msgid "Unable to create user. This email is already taken"
+msgstr "غير قادر على إنشاء المستخدم. الايميل أخذ مسبقا"
+
+#: controllers/NsamController.php:179 controllers/NsamController.php:252
+msgid "This email is not a valid email."
+msgstr "هذا البريد الإلكتروني ليس بريدًا إلكترونيًا صالحًا."
+
+#: controllers/NsamController.php:189 controllers/NsamController.php:262
+msgid "This password don't match the confirm password."
+msgstr "لا تتطابق كلمة المرور هذه مع تأكيد كلمة المرور."
+
+#: controllers/NsamController.php:190 controllers/NsamController.php:263
+msgid "This password confirm don't match the password."
+msgstr "تأكيد كلمة المرور هذه لا يتطابق مع كلمة المرور."
+
+#: controllers/NsamController.php:265
+msgid "Unable to create user. the password don't match the confirm password."
+msgstr ""
+"غير قادر على إنشاء المستخدم. كلمة المرور لا تتطابق مع تأكيد كلمة المرور."
+
+#: language/lang.php:2
+msgid "You're not allowed to access to that store"
+msgstr "غير مسموح لك بالوصول إلى هذا المتجر"
+
+#: nsam.php:25
+msgid ""
+"You're not allowed to access to that store. Contact the store manage for "
+"more informations."
+msgstr ""
+"غير مسموح لك بالوصول إلى هذا المتجر. اتصل بمدير المتجر لمزيد من المعلومات."
+
+#: nsam.php:46
+msgid ""
+"Nexo Store Advanced Manager, is not active, since NexoPOS multi Store "
+"feature is not active."
+msgstr ""
+"مدير متجر Nexo المتقدم ، غير نشط ، لأن ميزة NexoPOS multi Store ليست نشطة."
+
+#: nsam.php:78
+msgid "Access Denied"
+msgstr "تم الرفض"
+
+#: nsam.php:82
+msgid "You don't have access to any store."
+msgstr "ليس لديك حق الوصول إلى أي متجر."
+
+#: nsam.php:100
+msgid "Content Copy"
+msgstr "نسخ المحتوى"
+
+#: nsam.php:112
+msgid "All users"
+msgstr "جميع المستخدمين"
+
+#: nsam.php:116
+msgid "New User"
+msgstr "مستخدم جديد"
+
+#: nsam.php:129
+msgid "Access Manager"
+msgstr "مدير الوصول"
+
+#: views/content_management.php:6
+msgid "Import From Store"
+msgstr "استيراد من المتجر"
+
+#: views/content_management.php:13
+msgid "Copy Content"
+msgstr "نسخ المحتوى"
+
+#: views/content_management.php:27
+msgid "Select Store"
+msgstr "اختر المتجر"
+
+#: views/content_management.php:34
+msgid "Content to Copy"
+msgstr "المحتوى لنسخ"
+
+#: views/content_management.php:36
+msgid "Customers"
+msgstr ""
+
+#: views/content_management.php:37
+msgid "Customers Groups"
+msgstr "مجموعات العملاء"
+
+#: views/content_management.php:38
+msgid "Products"
+msgstr "منتجات"
+
+#: views/content_management.php:39
+msgid "Categories"
+msgstr "الاقسام"
+
+#: views/content_management.php:40
+msgid "Suppliers"
+msgstr "الموردين"
+
+#: views/content_management.php:41
+msgid "Taxes List"
+msgstr "قائمة الضرائب"
+
+#: views/content_management.php:42
+msgid "Radius"
+msgstr "نصف القطر"
+
+#: views/content_management.php:43
+msgid "Deliveries"
+msgstr "التسليم"
+
+#: views/content_management.php:44
+msgid "Modifiers"
+msgstr "الصفات التعريفية"
+
+#: views/content_management.php:45
+msgid "Modifiers Groups"
+msgstr "مجموعات المعدلات"
+
+#: views/copy_content_script.php:13
+msgid "Warning"
+msgstr "تحذير"
+
+#: views/copy_content_script.php:13
+msgid "You must select a store and/or select a content to copy."
+msgstr "يجب عليك تحديد متجر و / أو تحديد محتوى لنسخه."
+
+#: views/copy_content_script.php:17
+msgid ""
+"Copying content from other store, will erase all content from this store (to "
+"avoid conflict). Would you confirm your action ?"
+msgstr ""
+"يؤدي نسخ المحتوى من متجر آخر إلى مسح كل المحتوى من هذا المتجر (لتجنب "
+"التعارض). هل تؤكد عملك؟"
+
+#: views/copy_content_script.php:27
+msgid "Success"
+msgstr "نجاح"
+
+#: views/copy_content_script.php:27
+msgid "The selected item has been copied."
+msgstr "تم نسخ العنصر المحدد."
+
+#: views/copy_content_script.php:30
+msgid "An error occured"
+msgstr "حدث خطأ"
+
+#: views/copy_content_script.php:30
+msgid "An error occured."
+msgstr "حدث خطأ."
+
+#: views/users_management.php:28 views/users_management.php:65
+msgid "Save Settings"
+msgstr "احفظ التغييرات"
+
+#: views/users_management.php:38
+#, php-format
+msgid "Access to %s"
+msgstr "الوصول إلى %s"
+
+#: views/users_management.php:40
+msgid "Select an options"
+msgstr "حدد خيارات"
+
+#: views/users_management.php:41
+msgid "No"
+msgstr "لا"
+
+#: views/users_management.php:42
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: views/users_management.php:50
+msgid "Create a store"
+msgstr "إنشاء متجر"
+
+#: views/users_management.php:62
+msgid "No cashier available"
+msgstr "لا أمين الصندوق المتاحة"
+
+#: views/users_management.php:73
+msgid "Create a cashier"
+msgstr "إنشاء أمين الصندوق"

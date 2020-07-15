@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application>
+	<namespace>lang-switcher</namespace>
+	<name>Language Switcher</name>
+	<description>Nexo by Tendoo team</description>
+		<version>1.0</version>
+	<main>main.php</main>
+	<includes>inc</includes>
+	<language>language/</language>
+</application>

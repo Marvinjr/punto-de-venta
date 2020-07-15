@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+    <namespace>safe-delivery</namespace>
+    <name>Safe Delivery</name>
+    <version>1.0</version>
+    <main>Module.php</main>
+    <author>Blair Jersyer</author>
+</application>

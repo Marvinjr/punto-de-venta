@@ -1,0 +1,1 @@
+- count daily total for complete order and partially paid orders : application/modules/nexo/inc/models/Nexo_Orders_Model.php
